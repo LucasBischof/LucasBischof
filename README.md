@@ -5,7 +5,7 @@
  - :alien: Sempre gostei de ser desafiado, e um pouco competitivo
  - :octocat: Meu Linkedin https://www.linkedin.com/in/lucasbischofelias/
 
-![Snake animation](https://github.com/LucasBischof/LucasBischof/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/LucasBischof/LucasBischof/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/LucasBischof">

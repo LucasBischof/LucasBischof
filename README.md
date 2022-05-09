@@ -1,6 +1,6 @@
 # Olá, meu nome é Lucas Bischof Elias e esse é meu GIT
  - :computer: Atualmente, estudo **JS avançado**, CSS e SQL
- - :moneybag: Procurando pela primera oportunidade na area
+ - :moneybag: Estagiario de processamento de dados na infoprice
  - :pencil: Faço **Analise e Desenvolvimento de Sistemas** na Univercidade Cruzeiro do sul
  - :alien: Sempre gostei de ser desafiado, e um pouco competitivo
  - :octocat: Meu Linkedin https://www.linkedin.com/in/lucasbischofelias/
